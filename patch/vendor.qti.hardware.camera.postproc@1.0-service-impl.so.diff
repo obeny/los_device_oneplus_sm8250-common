@@ -1,0 +1,18 @@
+--- in.S	2024-04-21 22:00:25.677852277 +0200
++++ out.S	2024-04-21 22:00:42.605852285 +0200
+@@ -1,5 +1,5 @@
+ 
+-vendor.qti.hardware.camera.postproc@1.0-service-impl.so.in:     file format elf64-littleaarch64
++vendor.qti.hardware.camera.postproc@1.0-service-impl.so.out:     file format elf64-littleaarch64
+ 
+ 
+ Disassembly of section .text:
+@@ -2130,7 +2130,7 @@
+     6528:	940009f6 	bl	8d00 <__android_log_print@plt>
+     652c:	52800080 	mov	w0, #0x4                   	// #4
+     6530:	52800021 	mov	w1, #0x1                   	// #1
+-    6534:	94000a1f 	bl	8db0 <_ZN7android8hardware22configureRpcThreadpoolEmb@plt>
++    6534:	d503201f 	nop
+     6538:	f94016ad 	ldr	x13, [x21, #40]
+     653c:	f85f83ae 	ldur	x14, [x29, #-8]
+     6540:	eb0e01bf 	cmp	x13, x14
