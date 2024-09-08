@@ -2168,7 +2168,7 @@ vendor/lib64/libxtwifi_server_protocol_uri_v3.so
 vendor/lib64/qcrild_librilutils.so
 vendor/lib64/qtibus.so
 vendor/lib64/qtimutex.so
-vendor/lib64/sensors.ssc.so|b0bb87ad34a618851bd3dc8a377b2dde1e4e2fe0|7435f65e41d94ddfe060a9f3000083f48333296d
+vendor/lib64/sensors.ssc.so|073bf1ad552b1615177b24aebda0668cc3f5d7fc|d1ceee93b0135646cbe8a49dfe0e33017c1c0605
 vendor/lib64/unnhal-acc-adreno.so
 vendor/lib64/unnhal-acc-common.so
 vendor/lib64/unnhal-acc-hta.so

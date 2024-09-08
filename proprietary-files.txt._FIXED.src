@@ -4,7 +4,7 @@
 odm/lib64/libpwirissoft.so|e6fddaebca2981a09a46cf5397d47379b455228a|c0c3eb5df1210030190f634eceded4e3daff8506
 
 # Sensors
-vendor/lib64/sensors.ssc.so|b0bb87ad34a618851bd3dc8a377b2dde1e4e2fe0|7435f65e41d94ddfe060a9f3000083f48333296d
+vendor/lib64/sensors.ssc.so|073bf1ad552b1615177b24aebda0668cc3f5d7fc|d1ceee93b0135646cbe8a49dfe0e33017c1c0605
 
 # Camera
 vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so|af3ebaadd0c77af2ce95e1f7a8671f486f86e0cd|1da16b6e07e7688325bc23017c1a837eba277e1a
